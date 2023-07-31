@@ -8,7 +8,7 @@ from datetime import datetime
 import time
 from selenium.webdriver.support import expected_conditions as EC
 
-# This is an invalid username and pawword. 
+# This is an invalid username and passwword. 
 username = 'melody.norsworthy'
 password = 'Test123!'
 homePage = 'https://www.hudl.com/'
